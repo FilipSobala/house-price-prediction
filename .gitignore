@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
 __pycache__/
 *.csv
+venv/
+data/raw_data/*.txt
+moja_notatka.txt
+.DS_Store
